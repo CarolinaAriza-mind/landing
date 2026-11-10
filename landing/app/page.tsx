@@ -40,7 +40,7 @@ export default function Home() {
       <header className="sticky top-0 z-50 border-b border-[#e9e1d7] bg-[#FAF8F4]/95 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
           <a href="#" className="text-2xl font-semibold tracking-[0.25em]">
-            AURA<span className="text-[#AD896B]">.</span>
+            AURA
           </a>
 
           <nav className="hidden items-center gap-9 text-sm md:flex">
@@ -82,12 +82,12 @@ export default function Home() {
           <h1 className="mt-7 font-serif text-6xl leading-[1.08] md:text-7xl">
             Un momento
             <br />
-            para <span className="italic text-[#AD896B]">vos.</span>
+            para <span className="italic text-[#AD896B]">vos</span>
           </h1>
 
           <p className="mt-7 max-w-md text-base leading-8 text-[#766D64]">
             Un espacio pensado para desconectar de la rutina, cuidar tu piel y
-            disfrutar de una experiencia de belleza personalizada.
+            disfrutar de una experiencia de belleza personalizada
           </p>
 
           <div className="mt-9 flex flex-wrap gap-4">
@@ -210,16 +210,16 @@ export default function Home() {
               CONOCÉ A AURA
             </span>
             <h2 className="mt-6 font-serif text-5xl leading-tight">
-              Belleza que nace del cuidado.
+              Belleza que nace del cuidado
             </h2>
             <p className="mt-7 leading-8 text-[#766D64]">
               Creemos que dedicarte tiempo también es una forma de cuidarte. Por
               eso creamos un espacio cálido, donde cada persona recibe atención
-              y tratamientos pensados para sus necesidades.
+              y tratamientos pensados para sus necesidades
             </p>
             <p className="mt-5 leading-8 text-[#766D64]">
               Nuestro objetivo es que cada visita sea una experiencia para
-              disfrutar.
+              disfrutar
             </p>
             <a
               href={wa("Hola, quiero conocer más sobre AURA.")}
@@ -258,7 +258,7 @@ export default function Home() {
           ))}
         </div>
         <p className="mt-5 text-center text-xs text-[#766D64]">
-          Fotografías ilustrativas para esta demostración.
+          Fotografías ilustrativas para esta demostración
         </p>
       </section>
 
