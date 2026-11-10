@@ -59,7 +59,7 @@ export default function Home() {
           </nav>
 
           <a
-            href={wa("Hola, quiero consultar por un turno en AURA.")}
+            href={wa("Hola, quiero consultar por un turno en AURA")}
             target="_blank"
             rel="noreferrer"
             className="bg-[#40352D] px-5 py-3 text-xs tracking-wider text-white transition hover:bg-[#AD896B]"
@@ -128,7 +128,7 @@ export default function Home() {
           <div className="absolute -bottom-6 -left-4 bg-[#EDE5DA] p-6 md:-left-10">
             <p className="font-serif text-2xl italic">Tu espacio.</p>
             <p className="mt-1 text-xs tracking-widest text-[#766D64]">
-              TU MOMENTO.
+              TU MOMENTO
             </p>
           </div>
         </div>
@@ -157,11 +157,11 @@ export default function Home() {
             NUESTROS SERVICIOS
           </span>
           <h2 className="mt-5 font-serif text-5xl">
-            Cuidarte es parte del viaje.
+            Cuidarte es parte del viaje
           </h2>
           <p className="mt-5 leading-7 text-[#766D64]">
             Descubrí nuestras propuestas y encontrá el tratamiento ideal para
-            vos.
+            vos
           </p>
         </div>
 
@@ -239,7 +239,7 @@ export default function Home() {
           <span className="text-xs tracking-[0.3em] text-[#AD896B]">
             NUESTRO ESPACIO
           </span>
-          <h2 className="mt-5 font-serif text-5xl">Pequeños momentos.</h2>
+          <h2 className="mt-5 font-serif text-5xl">Pequeños momentos</h2>
         </div>
 
         <div className="grid grid-cols-2 gap-4 md:grid-cols-3">
@@ -271,10 +271,10 @@ export default function Home() {
           TU MOMENTO EMPIEZA ACÁ
         </span>
         <h2 className="mx-auto mt-6 max-w-2xl font-serif text-5xl leading-tight md:text-6xl">
-          Regalate un momento para vos.
+          Regalate un momento para vos
         </h2>
         <p className="mx-auto mt-6 max-w-lg leading-7 text-[#DDD1C5]">
-          Escribinos y encontrá el tratamiento ideal. Estamos para ayudarte.
+          Escribinos y encontrá el tratamiento ideal. Estamos para ayudarte
         </p>
         <a
           href={wa("Hola, quiero reservar un turno en AURA.")}
@@ -288,7 +288,7 @@ export default function Home() {
 
       {/* FOOTER */}
       <footer className="bg-[#302923] px-6 py-9 text-center text-[#D7CCC0]">
-        <p className="font-serif text-3xl tracking-[0.2em]">AURA.</p>
+        <p className="font-serif text-3xl tracking-[0.2em]">AURA</p>
 
         <p className="mt-3 text-xs">Belleza · Cuidado · Bienestar</p>
 
@@ -299,7 +299,7 @@ export default function Home() {
 
       {/* WHATSAPP FLOTANTE */}
       <a
-        href={wa("Hola! Quisiera consultar por sus servicios.")}
+        href={wa("Hola! Quisiera consultar por sus servicios")}
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Contactar por WhatsApp"

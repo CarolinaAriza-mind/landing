@@ -45,13 +45,13 @@ aura-estudio/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/CarolinaAriza-mind/landing
 ```
 
 ### 2. Ingresar al proyecto
 
 ```bash
-cd nombre-del-proyecto
+cd landing
 ```
 
 ### 3. Instalar dependencias
