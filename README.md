@@ -1,1 +1,1 @@
-## Pagina comercial para peqqueños negocios
+## Pagina comercial para pequeños negocios
